@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.exe
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.deps.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.runtimeconfig.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorFormApp.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.Form1.resources
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.AssemblyInfo.cs
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorFormApp.genruntimeconfig.cache

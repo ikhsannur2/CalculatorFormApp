@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.exe
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.deps.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.runtimeconfig.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\bin\Debug\netcoreapp3.1\CalculatorCLI.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.AssemblyInfo.cs
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorCLI\obj\Debug\netcoreapp3.1\CalculatorCLI.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.exe
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.deps.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.runtimeconfig.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\bin\Debug\netcoreapp3.1\CalculatorDesktopApp.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.Form1.resources
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.AssemblyInfo.cs
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.dll
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.pdb
+C:\Users\Asus\Documents\Semester 3\SimpleCalculator-master\CalculatorDesktopApp\obj\Debug\netcoreapp3.1\CalculatorDesktopApp.genruntimeconfig.cache
